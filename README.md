@@ -1,6 +1,5 @@
 # Library_Management
 
----
 ### Overview
 
 The **Library Management System** is a simplified platform designed to manage library operations including book rentals, user memberships, deposits, and administrative controls. It supports multiple user roles and enforces realistic constraints such as rental limits, late fees, and account balance management.
